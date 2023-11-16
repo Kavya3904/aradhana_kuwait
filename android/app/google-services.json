@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "875411131883",
+    "project_id": "aradhana-kuwait",
+    "storage_bucket": "aradhana-kuwait.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875411131883:android:eafd5783eae6421a4c5dae",
+        "android_client_info": {
+          "package_name": "com.goldscheme.aradhanakuwait"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALwsSgfJGpg-NwZUFC143I0eyaNAmnnxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

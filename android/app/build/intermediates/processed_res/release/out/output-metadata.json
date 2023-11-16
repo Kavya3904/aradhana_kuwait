@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "PROCESSED_RES",
+    "kind": "Directory"
+  },
+  "applicationId": "com.goldscheme.aradhanakuwait",
+  "variantName": "processReleaseResources",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "versionCode": 201,
+      "versionName": "5.2.29",
+      "outputFile": "resources-release.ap_"
+    }
+  ]
+}
